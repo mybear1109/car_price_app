@@ -1,7 +1,23 @@
-streamlit
-pandas
+# 기본 패키지
 numpy
+pandas
 matplotlib
 seaborn
+
+# Streamlit 및 UI 관련
+streamlit
+streamlit-option-menu
+
+# 머신러닝 관련 패키지
+scikit-learn
 joblib
 
+# 파일 처리 관련
+openpyxl  # Excel 파일 로드
+pillow  # 이미지 처리
+
+# 동영상 처리 (필요할 경우)
+moviepy
+
+# 기타 필수 라이브러리
+requests
